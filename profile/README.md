@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="logo.png" alt="Fireside logo" width="200"/>
+  <img src="banner-transparent.png" alt="Fireside logo" width="40%"/>
 </p>
-
-# Fireside
-
-> A collective space for builders, learners, and quiet creators.
 
 Fireside started as a Discord server during the 2020 lockdown — a place to pass time through games, watch parties, and spontaneous chaos. Over time, it grew into something more: a shared corner for making things, learning in public, and building without pressure.
 
