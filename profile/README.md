@@ -1,87 +1,60 @@
-# 🔥 Fireside
+<p align="center">
+  <img src="logo.png" alt="Fireside logo" width="200"/>
+</p>
 
-Welcome to **Fireside** — a collaborative, community-driven organization where curiosity meets creativity. Fireside started as a social server during the 2020 lockdowns and has evolved into a vibrant space for coders, builders, designers, and idea explorers from all walks of life.
+# Fireside
 
----
+> A collective space for builders, learners, and quiet creators.
 
-## 🌟 What We’re About
+Fireside started as a Discord server during the 2020 lockdown — a place to pass time through games, watch parties, and spontaneous chaos. Over time, it grew into something more: a shared corner for making things, learning in public, and building without pressure.
 
-**Fireside** isn’t just about code — it’s about creating together. We welcome anyone who loves to:
-- 🧠 Solve problems with tech
-- 💡 Tinker with ideas & build cool side projects
-- 🔓 Contribute to open source
-- 🎓 Learn through collaboration
-- 🛠️ Share knowledge via docs, tutorials, or tools
-- 🎮 Experiment with games, AI, web dev, or anything in between
-
-Whether you're a student, a hobbyist, or a working professional — there's a place for you here.
+This org hosts the code side of that story.
 
 ---
 
-## 🔧 What We Build
+## What We Do
 
-Projects under **Fireside** span a range of domains:
+Fireside isn't a startup. It’s not a bootcamp. It's just a place where people who like working on ideas—big or small—hang out and build stuff.
 
-| Area | Description |
-|------|-------------|
-| 🌐 Web Dev | Full-stack apps, devtools, UI/UX concepts |
-| 🧠 AI/ML | Models, automation, hackathon prototypes |
-| 🕹️ Games | Fun experiments, game engines, interactive apps |
-| 🛰️ Geo/Enviro Tech | Tools using satellite imagery, maps, and spatial data |
-| 📚 Learning Tools | Docs, guides, or interactive tutorials |
-| 🧰 Utilities | Bots, CLI tools, productivity scripts |
+You'll find:
 
-You can view all projects in the [Repositories](https://github.com/orgs/TheFireside/repositories) tab.
+- 🛠️ Tiny tools and weekend projects  
+- 🌐 Full-stack web experiments  
+- 🧠 ML prototypes and geospatial analysis  
+- 🕹️ Games and interactive experiments  
+- 📚 Docs, writeups, and visual explainers  
 
----
-
-## 🔥 Fireside Values
-
-We believe in:
-
-- **Open collaboration** – Everyone can contribute
-- **Learning by doing** – Side projects > theory
-- **Low ego, high enthusiasm** – No gatekeeping
-- **Consistency over perfection** – Small steps matter
-- **Document as you go** – So others can follow
+Explore our [projects](https://github.com/orgs/TheFireside/repositories) →  
+They're public by default, open to explore, fork, remix, or contribute to.
 
 ---
 
-## 🤝 How to Join / Contribute
+### 📜 Code of Conduct
 
-Want to be part of Fireside?
-
-### 👉 For Discord Members:
-Join project discussions in the `#fireside-dev` channel on the [Fireside Discord](https://discord.gg/WB9gxn7uke).
-
-### 👉 For Developers:
-1. Browse open issues or starter repos.
-2. Fork the project or get added to the org.
-3. Follow contribution guidelines in each repo.
-4. PRs, bugs, feedback, suggestions — all welcome!
-
-### 👉 For Non-Coders:
-- Suggest ideas
-- Help with design/docs
-- Test and give feedback
+This space runs on mutual respect, kindness, and shared curiosity.  
+Read our [Code of Conduct](./CODE_OF_CONDUCT.md) before contributing — it's short, and it matters.
 
 ---
 
-## 🛡️ Code of Conduct
+## What We Value
 
-Be kind. Be respectful. Collaborate with intention. Fireside is a shared creative space — let’s keep the flame alive without burning bridges.
-
-> We follow a modified [Contributor Covenant](https://www.contributor-covenant.org/) – see [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md)
-
----
-
-## 💬 Let’s Connect
-
-- 🌐 [GitHub Org](https://github.com/TheFireside)
-- 🎮 [Fireside Discord](https://discord.gg/WB9gxn7uke)
-- 📣 Announcements & Devlogs coming soon!
+- **Build without pressure** — No deadlines, no grind.
+- **Learn in the open** — Even messy work teaches.
+- **Start small** — Some of the best things begin that way.
+- **Be decent** — Respect others, give credit, write things down.
+- **Stay curious** — That’s why we’re here.
 
 ---
 
-### ✨ Fireside: Where code meets community. Pull up a chair.
+## Get Involved
 
+We hang out on [Discord](https://discord.gg/WB9gxn7uke).  
+No onboarding rituals — just jump into a thread, suggest something, or start building.
+
+You don’t need to be “experienced.” You just need to be interested.
+
+---
+
+## Fireside, in a sentence?
+
+> It's like a digital campfire for people who like to make things. Pull up a chair.
